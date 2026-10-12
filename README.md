@@ -1,2 +1,2 @@
-# ProjectsIWouldLikeToShareIGuess
-Projects which I'm alright with the world knowing they exist
+# ProjectsIWouldLikeToShare
+Projects which I'm alright with the world knowing they exist.
